@@ -19,8 +19,9 @@ Ejercicio_1. Identifica el tamaño de red correspondiente (PAN, LAN, MAN, WAN) e
    __PAN__. Son pequeñas redes personales cuya finalidad es conectar diferenes dispositivos móviles a distancias no superiores a varios metros de forma
    inalámbrica(Bluethooth principalmente) con la finalidad de sincronizar dispositivos o intercambiar ficheros de auudio, video u otro tipo entre ellos.
    
-9. Red de una oficina pequeña donde varias computadoras están conectadas a un switch para compartir archivos y recursos.
-   __LAN__.En este caso el uso de un swith para conectar los diferentes equipos de la red hace que la comunicación entre ellos sea más directa ya que es este el
+5. Red de una oficina pequeña donde varias computadoras están conectadas a un switch para compartir archivos y recursos.
+    
+   __LAN__. En este caso el uso de un swith para conectar los diferentes equipos de la red hace que la comunicación entre ellos sea más directa ya que es este el
    responsable de enviar los datos al equipo correcto, es decir, los datos son enviados sólo al dispositivo destino permitiendo descongestión en la red y mayor
    rendimiento. Los switches permiten agregar equipos con facilidad a la red.No se habla de que dicha red este conectada a internet por lo que se encuentra libre
    de amenazas externas lo cual no quiere decir que no pueda existir dicha amenaza a través de la introducción de algún software infectado con malware por
