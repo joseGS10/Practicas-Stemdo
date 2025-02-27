@@ -1,0 +1,7 @@
+Nombres,Path
+Jugadores,"DC=midominio,DC=local"
+Delanteros,"OU=Jugadores,DC=midominio,DC=local"
+Mediocampistas,"OU=Jugadores,DC=midominio,DC=local"
+Ligas,"DC=midominio,DC=local"
+LaLiga,"OU=Ligas,DC=midominio,DC=local"
+PremierLeague,"OU=Ligas,DC=midominio,DC=local"
